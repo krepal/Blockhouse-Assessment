@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
-import { geckoApi } from '../services/geckoApi';
+import { geckoApi } from '../services/GeckoApi';
 import { LoadingSpinner } from './LoadingSpinner';
-import { useCryptoStore } from '../store/statemanagement';
+import { useCryptoStore } from '../store/StateManagement';
 
 export const CryptoList = () => {
   const { searchTerm } = useCryptoStore();

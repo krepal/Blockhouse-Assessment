@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { CryptoTypes } from '../types/cryptotypes';
+import { CryptoTypes } from '../types/CryptoTypes';
 
 const GECKO_API = 'https://api.coingecko.com/api/v3';
 

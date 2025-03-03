@@ -1,4 +1,4 @@
-import { useCryptoStore } from '../store/statemanagement';
+import { useCryptoStore } from '../store/StateManagement';
 
 export const SearchBar = () => {
   const { searchTerm, setSearchTerm } = useCryptoStore();

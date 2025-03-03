@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { CryptoTypes } from '../types/cryptotypes';
+import { CryptoTypes } from '../types/CryptoTypes';
 
 interface CryptoStore {
   cryptos: CryptoTypes[];

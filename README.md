@@ -36,7 +36,7 @@ This project is a Crypto Price Tracker built with Next.js that displays real-tim
     ```
 
 5. **Visit the application**:
-    Open your browser and go to `http://localhost:3000`
+    Open your Incognito browser and go to `http://localhost:3000`
 
 ### Documentation
 
